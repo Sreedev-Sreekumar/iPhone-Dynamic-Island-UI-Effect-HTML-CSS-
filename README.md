@@ -37,7 +37,7 @@ iPhone-Dynamic-Island-UI-Effect/
 
 (Add your own screenshot here)
 
-![Preview Image](images/preview.png)
+![Preview Image](https://github.com/Sreedev-Sreekumar/iPhone-Dynamic-Island-UI-Effect-HTML-CSS-/blob/main/Dynamic%20Preview/1.png.png)
 
 🧪 Usage
 
