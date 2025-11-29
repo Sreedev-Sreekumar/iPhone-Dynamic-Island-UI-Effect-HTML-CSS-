@@ -42,7 +42,7 @@ iPhone-Dynamic-Island-UI-Effect/
 
 Clone the repository:
 
-git clone https://github.com/your-username/iPhone-Dynamic-Island-UI-Effect.git
+git clone https://github.com/Sreedev-Sreekumar/iPhone-Dynamic-Island-UI-Effect-HTML-CSS-.git
 
 
 Open index.html in your browser.
