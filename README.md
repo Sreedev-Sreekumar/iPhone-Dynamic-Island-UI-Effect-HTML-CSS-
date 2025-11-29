@@ -28,6 +28,7 @@ Hover-based interactions
 Pseudo-elements for dynamic shape changes
 
 📂 Project Structure
+
 iPhone-Dynamic-Island-UI-Effect/
 │── index.html
 │── style.css
@@ -35,9 +36,7 @@ iPhone-Dynamic-Island-UI-Effect/
 
 📸 Preview
 
-(Add your own screenshot here)
-
-![Preview Image](Dynamic Preview/Verdict 4.png.png)
+![Preview Image](https://github.com/Sreedev-Sreekumar/iPhone-Dynamic-Island-UI-Effect-HTML-CSS-/blob/main/Dynamic%20Preview/Verdict%204.png.png)
 
 🧪 Usage
 
